@@ -1,0 +1,41 @@
+<gallery>
+<properties>
+  <width><![CDATA[583]]></width>
+  <height><![CDATA[293]]></height>
+  <effect><![CDATA[random]]></effect>
+  <slices><![CDATA[15]]></slices>
+  <animSpeed><![CDATA[500]]></animSpeed>
+  <pauseTime><![CDATA[5000]]></pauseTime>
+  <startSlide><![CDATA[0]]></startSlide>
+  <keyboardNav>true</keyboardNav>
+  <pauseOnHover>true</pauseOnHover>
+  <captionOpacity>80</captionOpacity>
+  <controlNav>true</controlNav>
+  <linkTarget>true</linkTarget>
+</properties>
+<category id="home-slider">
+	<properties>
+		<title><![CDATA[Home Slider]]></title>
+		<description><![CDATA[]]></description>
+		<skin><![CDATA[banner_default]]></skin>
+	</properties>
+	<items>
+		<item id="1771">
+          <track>http://xr63bandai.bidmc.harvard.edu/test/wp-content/uploads/2012/04/MagickSlide.jpg</track>
+          <title><![CDATA[BIDMC Service Desk Express GO LIVE!]]></title>
+          <link></link>
+          <preview></preview>
+          <description><![CDATA[BIDMC Service Desk Express will go live on April 23rd. Be sure to log in beforehand. ]]></description>
+          <thumbnail></thumbnail>
+        </item>
+		<item id="1777">
+          <track>http://xr63bandai.bidmc.harvard.edu/test/wp-content/uploads/2012/04/FenwaySlider.jpg</track>
+          <title><![CDATA[Red Sox Opening Day!]]></title>
+          <link></link>
+          <preview></preview>
+          <description><![CDATA[Red Sox Opening Day at Fenway April 13]]></description>
+          <thumbnail></thumbnail>
+        </item>
+	</items>
+</category>
+</gallery>
